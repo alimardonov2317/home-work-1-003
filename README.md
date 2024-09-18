@@ -1,0 +1,1 @@
+Ushbu loyiha Zahiriddin Muhammad Boburning hayoti va ijodi haqida.Bu loyiha htmlda yozilgan va ozgina (inline) css ham ishlatilgan.
